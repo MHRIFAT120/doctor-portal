@@ -91,7 +91,6 @@ function sendPaymentConformationEmail(booking) {
 
             <h3>Our Addres</h3>
             <p>Cosmopoliton</p>
-            
             <p>Bangladesh</p>
             <a href="https://web.programming-hero.com/">Unsubscribe</a>
         </div>`
